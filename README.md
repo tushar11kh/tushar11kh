@@ -4,7 +4,7 @@
 
 - 🎓 Currently pursuing MCA (Computer Science) at Thapar University, Patiala.
 - 💻 Open source beginner currently contributing to CCExtractor. 
-- 📱 Mobile Developer.
+- 📱 Mobile Application Developer.
 
 <br>
 
