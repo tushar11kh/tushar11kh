@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-- 🎓 Currently pursuing MCA (Computer Science) at Thapar University, Patiala.
+- 🎓 CS entry through MCA from Thapar University, Patiala.
 - 💻 Open source beginner currently contributing to CCExtractor. 
 - 📱 Mobile Application Developer.
 
