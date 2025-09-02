@@ -25,9 +25,12 @@
 - [**Automated Deployment Pipeline**](https://github.com/tushar11kh/cli_redis_nginx)  
    *Dockerized Redis + NGINX, CI/CD with GitHub Actions, deployed on AWS EC2.*  
 
+- [**Dockerized a rust Smart Contract with solana-test-validator**](https://github.com/tushar11kh/streaming_payroll_solana)
+   *Dockerized with Solana test validator with multi-stage build making image size from 8.9 GB to 277 mb.*
+
 ### 🔗 Blockchain (Rust / Solana)  
 - [**Streaming Payroll Smart Contract**](https://github.com/tushar11kh/streaming_payroll_solana)  
-   *Rust Solana program enabling continuous payroll streaming. Dockerized with Solana test validator with multi-stage build making image size from 8.9 GB to 277 mb.*  
+   *Rust Solana program enabling continuous payroll streaming.*  
 
 ### 📱 Web3 Mobile  
 - [**Flutter dApp for Streaming Payroll**](https://github.com/tushar11kh/streaming_payroll_solana_flutter)  
