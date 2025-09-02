@@ -25,7 +25,7 @@
 - [**Automated Deployment Pipeline**](https://github.com/tushar11kh/cli_redis_nginx)  
    *Dockerized Redis + NGINX, CI/CD with GitHub Actions, deployed on AWS EC2.*  
 
-- [**Dockerized a rust Smart Contract with solana-test-validator**](https://github.com/tushar11kh/streaming_payroll_solana)
+- [**Dockerized a rust Smart Contract with solana-test-validator**](https://github.com/tushar11kh/streaming_payroll_solana)  
    *Dockerized with Solana test validator with multi-stage build making image size from 8.9 GB to 277 mb.*
 
 ### 🔗 Blockchain (Rust / Solana)  
