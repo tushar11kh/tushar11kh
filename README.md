@@ -70,9 +70,11 @@ The syntax changes, but the **principles remain the same**.
 
 ## Open Source Contributions 🌐
 
-| S.No. | Organization | Project      | Link to PRs | Link to Created Issues |
-|-------|--------------|--------------|-------------|-------------------------|
-| 1     | CCExtractor  | ultimate_alarm_clock      | [PRs](https://github.com/CCExtractor/ultimate_alarm_clock/pulls?q=is%3Apr+author%3Atushar11kh+is%3Aclosed) | [Issues](https://github.com/CCExtractor/ultimate_alarm_clock/issues?q=is%3Aissue+is%3Aclosed+author%3Atushar11kh)         |
+| S.No. | Organization | Project             | Link to PRs                                                                                       | Link to Created Issues                                                                                 |
+|-------|--------------|---------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 1     | CCExtractor  | ultimate_alarm_clock | [PRs](https://github.com/CCExtractor/ultimate_alarm_clock/pulls?q=is%3Apr+author%3Atushar11kh+is%3Aclosed) | [Issues](https://github.com/CCExtractor/ultimate_alarm_clock/issues?q=is%3Aissue+is%3Aclosed+author%3Atushar11kh) |
+| 2     | FOSSASIA     | badgemagic-app      | [PRs](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Aclosed+author%3Atushar11kh) | [Issues](https://github.com/fossasia/badgemagic-app/issues?q=is%3Aissue%20state%3Aclosed%20author%3Atushar11kh) |
+ 
 
 <br>
 
