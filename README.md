@@ -32,7 +32,7 @@
 - [**Streaming Payroll Smart Contract**](https://github.com/tushar11kh/streaming_payroll_solana)  
    *Rust Solana program enabling continuous payroll streaming.*  
 
-### 📱 Web3 Mobile  
+### 📱 FLutter 
 - [**Flutter dApp for Streaming Payroll**](https://github.com/tushar11kh/streaming_payroll_solana_flutter)  
    *Mobile frontend to interact with Solana payroll program.*  
 
