@@ -26,6 +26,8 @@
 ## 🚀 Featured Projects  
 
 ### 📱 FLutter 
+- [**Feature_medical_app**](https://github.com/tushar11kh/feature_medical_app?tab=readme-ov-file)
+   *Feature for a client to implemented in flutter web.*
 - [**Flutter dApp for Streaming Payroll**](https://github.com/tushar11kh/streaming_payroll_solana_flutter)  
    *Mobile frontend to interact with Solana payroll program.*  
 
