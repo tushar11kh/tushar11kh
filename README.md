@@ -26,8 +26,21 @@
 ## 🚀 Featured Projects  
 
 ### 📱 FLutter 
-- [**Feature_medical_app**](https://github.com/tushar11kh/feature_medical_app?tab=readme-ov-file)
+- [**Feature_medical_app**](https://github.com/tushar11kh/feature_medical_app?tab=readme-ov-file)  
    *Feature for a client to implemented in flutter web.*
+
+- [**roastume_to_flutter**](https://github.com/tushar11kh/roastume_to_flutter)  
+   *Clone of roastume.fun to mobile app.*
+
+- [**paper_trading_stock_app**](https://github.com/tushar11kh/paper_trading_stock_app)  
+   *Mock app for trading.* 
+
+- [**brush-Game**](https://github.com/tushar11kh/brush-Game)  
+   *coloring app for kids under 3.*
+
+- [**immodrops_grocery**](https://github.com/tushar11kh/immodrops_grocery)  
+   *e-commerce app project.* 
+  
 - [**Flutter dApp for Streaming Payroll**](https://github.com/tushar11kh/streaming_payroll_solana_flutter)  
    *Mobile frontend to interact with Solana payroll program.*  
 
