@@ -1,25 +1,33 @@
 # 👋 Hi, I'm Tushar  
 
-- 🚀 DevOps & Cloud enthusiast | Building CI/CD pipelines, containerized apps, and scalable infrastructure.  
-- 🔗 Exploring Blockchain (Solana) with Rust programs & Flutter dApps.  
-- 🎯 Open to **remote roles** and **freelance opportunities** in:  
+- First stepped into the application world through **Flutter**.
+- DevOps & Cloud enthusiast | Building CI/CD pipelines, containerized apps, and scalable infrastructure.  
+- Exploring Blockchain (Solana) with Rust programs.  
+- Open to **remote roles** and **freelance opportunities** in:  
    - DevOps & Cloud Engineering  
    - Flutter Mobile Development  
    - Solana Smart Contracts & dApp Development  
 
 ---
 
-## ⚙️ Tech Stack  
+## Open Source Contributions 🌐
 
-**Languages**: Go, Rust, Dart (Flutter), Bash, YAML  
-**DevOps & Cloud**: Docker, GitHub Actions, AWS (EC2) 
-**Blockchain**: Solana, Anchor, Web3 integrations  
-**OS**: Macos, Linux(ubuntu/debian)
-**Other**: Git, NGINX, Redis
+| S.No. | Organization | Project             | Link to PRs                                                                                       | Link to Created Issues                                                                                 |
+|-------|--------------|---------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 1     | CCExtractor  | ultimate_alarm_clock | [PRs](https://github.com/CCExtractor/ultimate_alarm_clock/pulls?q=is%3Apr+author%3Atushar11kh+is%3Aclosed) | [Issues](https://github.com/CCExtractor/ultimate_alarm_clock/issues?q=is%3Aissue+is%3Aclosed+author%3Atushar11kh) |
+| 2     | FOSSASIA     | badgemagic-app      | [PRs](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Aclosed+author%3Atushar11kh) | [Issues](https://github.com/fossasia/badgemagic-app/issues?q=is%3Aissue%20state%3Aclosed%20author%3Atushar11kh) |
+ 
+
+<br>
 
 ---
 
+
 ## 🚀 Featured Projects  
+
+### 📱 FLutter 
+- [**Flutter dApp for Streaming Payroll**](https://github.com/tushar11kh/streaming_payroll_solana_flutter)  
+   *Mobile frontend to interact with Solana payroll program.*  
 
 ### 🔧 DevOps / Cloud  
 - [**Automated Deployment Pipeline**](https://github.com/tushar11kh/cli_redis_nginx)  
@@ -32,9 +40,16 @@
 - [**Streaming Payroll Smart Contract**](https://github.com/tushar11kh/streaming_payroll_solana)  
    *Rust Solana program enabling continuous payroll streaming.*  
 
-### 📱 FLutter 
-- [**Flutter dApp for Streaming Payroll**](https://github.com/tushar11kh/streaming_payroll_solana_flutter)  
-   *Mobile frontend to interact with Solana payroll program.*  
+
+---
+
+## ⚙️ Tech Stack  
+
+**Languages**: Go, Rust, Dart (Flutter), Bash, YAML  
+**DevOps & Cloud**: Docker, GitHub Actions, AWS (EC2) 
+**Blockchain**: Solana, Anchor, Web3 integrations  
+**OS**: Macos, Linux(ubuntu/debian)
+**Other**: Git, NGINX, Redis
 
 ---
 
@@ -66,17 +81,6 @@ The syntax changes, but the **principles remain the same**.
 - Learning **frameworks** to build faster.  
 - Understanding **how things work under the hood** (systems, infra, compilers, protocols).  
 - Knowing **what is required to make things work**, not memorizing every detail of a language.
-
-
-## Open Source Contributions 🌐
-
-| S.No. | Organization | Project             | Link to PRs                                                                                       | Link to Created Issues                                                                                 |
-|-------|--------------|---------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| 1     | CCExtractor  | ultimate_alarm_clock | [PRs](https://github.com/CCExtractor/ultimate_alarm_clock/pulls?q=is%3Apr+author%3Atushar11kh+is%3Aclosed) | [Issues](https://github.com/CCExtractor/ultimate_alarm_clock/issues?q=is%3Aissue+is%3Aclosed+author%3Atushar11kh) |
-| 2     | FOSSASIA     | badgemagic-app      | [PRs](https://github.com/fossasia/badgemagic-app/pulls?q=is%3Apr+is%3Aclosed+author%3Atushar11kh) | [Issues](https://github.com/fossasia/badgemagic-app/issues?q=is%3Aissue%20state%3Aclosed%20author%3Atushar11kh) |
- 
-
-<br>
 
 ---
 
