@@ -26,11 +26,12 @@
 ## 🚀 Featured Projects  
 
 ### 📱 FLutter 
-- [**Feature_medical_app**](https://github.com/tushar11kh/feature_medical_app?tab=readme-ov-file)  
-   *Feature for a client to implemented in flutter web.*
 
 - [**roastume_to_flutter**](https://github.com/tushar11kh/roastume_to_flutter)  
    *Clone of roastume.fun to mobile app.*
+  
+- [**Feature_medical_app**](https://github.com/tushar11kh/feature_medical_app?tab=readme-ov-file)  
+   *Feature for a client to implemented in flutter web.*
 
 - [**paper_trading_stock_app**](https://github.com/tushar11kh/paper_trading_stock_app)  
    *Mock app for trading.* 
