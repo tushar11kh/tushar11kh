@@ -25,7 +25,10 @@
 
 ## 🚀 Featured Projects  
 
-### 📱 FLutter 
+### Flutter 
+
+- [**chatgpt_clone_flutter**](https://github.com/tushar11kh/chatgpt_clone_flutter)  
+   *Clone of ChatGPT UI + Perplexity AI.*
 
 - [**roastume_to_flutter**](https://github.com/tushar11kh/roastume_to_flutter)  
    *Clone of roastume.fun to mobile app.*
@@ -45,16 +48,20 @@
 - [**Flutter dApp for Streaming Payroll**](https://github.com/tushar11kh/streaming_payroll_solana_flutter)  
    *Mobile frontend to interact with Solana payroll program.*  
 
-### 🔧 DevOps / Cloud  
+### DevOps / Cloud  
 - [**Automated Deployment Pipeline**](https://github.com/tushar11kh/cli_redis_nginx)  
    *Dockerized Redis + NGINX, CI/CD with GitHub Actions, deployed on AWS EC2.*  
 
 - [**Dockerized a rust Smart Contract with solana-test-validator**](https://github.com/tushar11kh/streaming_payroll_solana)  
    *Dockerized with Solana test validator with multi-stage build making image size from 8.9 GB to 277 mb.*
 
-### 🔗 Blockchain (Rust / Solana)  
+### Blockchain (Rust / Solana)  
 - [**Streaming Payroll Smart Contract**](https://github.com/tushar11kh/streaming_payroll_solana)  
-   *Rust Solana program enabling continuous payroll streaming.*  
+   *Rust Solana program enabling continuous payroll streaming.*
+
+### Nodejs 
+- [**perplexiity_chatgpt_clone_backend**](https://github.com/tushar11kh/perplexiity_chatgpt_clone_backend)  
+   *Perplexity AI API backend for my flutter application.*
 
 
 ---
