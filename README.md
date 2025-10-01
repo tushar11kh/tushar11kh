@@ -34,9 +34,6 @@
 - [**Feature_medical_app**](https://github.com/tushar11kh/feature_medical_app?tab=readme-ov-file)  
    *Feature for a client to implemented in flutter web.*
 
-- [**paper_trading_stock_app**](https://github.com/tushar11kh/paper_trading_stock_app)  
-   *Mock app for trading.* 
-
 - [**brush-Game**](https://github.com/tushar11kh/brush-Game)  
    *coloring app for kids under 3.*
 
@@ -61,7 +58,8 @@
 - [**perplexiity_chatgpt_clone_backend**](https://github.com/tushar11kh/perplexiity_chatgpt_clone_backend)  
    *Perplexity AI API backend for my flutter application.*
 
-
+- [**paper_trading_stock_app**](https://github.com/tushar11kh/paper_trading_stock_app)  
+   *Mock app for trading.* 
 ---
 
 ## ⚙️ Tech Stack  
