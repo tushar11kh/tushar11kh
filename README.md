@@ -28,6 +28,9 @@
 - [**chatgpt_clone_flutter**](https://github.com/tushar11kh/chatgpt_clone_flutter)  
    *Clone of ChatGPT UI + Perplexity AI.*
 
+- [**Flutter dApp for Streaming Payroll**](https://github.com/tushar11kh/streaming_payroll_solana_flutter)  
+   *Mobile frontend to interact with Solana payroll program.*  
+
 - [**roastume_to_flutter**](https://github.com/tushar11kh/roastume_to_flutter)  
    *Clone of roastume.fun to mobile app.*
   
@@ -40,8 +43,7 @@
 - [**immodrops_grocery**](https://github.com/tushar11kh/immodrops_grocery)  
    *e-commerce app project.* 
   
-- [**Flutter dApp for Streaming Payroll**](https://github.com/tushar11kh/streaming_payroll_solana_flutter)  
-   *Mobile frontend to interact with Solana payroll program.*  
+
 
 ### DevOps / Cloud  
 - [**Automated Deployment Pipeline**](https://github.com/tushar11kh/cli_redis_nginx)  
