@@ -10,7 +10,7 @@
 
 ---
 
-## Open Source Contributions 🌐
+## Open Source Contributions 
 
 | S.No. | Organization | Project              | Technology | Link to PRs                                                                                       | Link to Created Issues                                                                                 |
 |-------|--------------|----------------------|------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
@@ -21,7 +21,7 @@
 ---
 
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 ### Flutter 
 
@@ -64,7 +64,7 @@
    *Mock app for trading.* 
 ---
 
-## ⚙️ Tech Stack  
+## Tech Stack  
 
 **Languages**: Go, Rust, Dart (Flutter), Bash, YAML  
 **DevOps & Cloud**: Docker, GitHub Actions, AWS (EC2) 
@@ -74,31 +74,31 @@
 
 ---
 
-## 🤖 Development Approach (AI Tools)  
+## Development Approach (AI Tools)  
 
 I actively use **AI tools** to accelerate development and learning:  
 
-- 💻 **ChatGPT & DeepSeek** → pair-programming, code generation, refactoring.  
-- 📚 **Perplexity** → for researching technologies I know less about and quickly understanding new concepts.  
-- 🔒 Focus: **security, reliability, and clean architecture**. I use AI to handle boilerplate and speed up delivery, while I carefully **review, test, and optimize** the final implementation.  
-- 🚀 I treat AI as a **productivity multiplier**, not a replacement — I define system design, ensure best practices, and make final technical decisions.  
+- **ChatGPT & DeepSeek** → pair-programming, code generation, refactoring.  
+- **Perplexity** → for researching technologies I know less about and quickly understanding new concepts.  
+- Focus: **security, reliability, and clean architecture**. I use AI to handle boilerplate and speed up delivery, while I carefully **review, test, and optimize** the final implementation.  
+- I treat AI as a **productivity multiplier**, not a replacement — I define system design, ensure best practices, and make final technical decisions.  
 
 ---
 
-## 🌍 Learning Philosophy  
+## Learning Philosophy  
 
 I believe every programming language has its own **unique strengths**:  
-- 🧹 **Java, Go** → garbage collectors simplify memory management.  
-- ⚡ **Go** → excels at concurrency with goroutines and channels.  
-- 🔐 **Rust** → ensures memory safety without a garbage collector.  
-- 🐍 **Python** → great for rapid prototyping and ecosystem richness.  
-- ☕ **Java / C#** → strong object-oriented ecosystems for enterprise software.  
+- **Java, Go** → garbage collectors simplify memory management.  
+- **Go** → excels at concurrency with goroutines and channels.  
+- **Rust** → ensures memory safety without a garbage collector.  
+- **Python** → great for rapid prototyping and ecosystem richness.  
+- **Java / C#** → strong object-oriented ecosystems for enterprise software.  
 
 At the same time, **all languages share common foundations**:  
-👉 data types, conditionals (`if/else`), loops, functions, data structures, error handling, file I/O, etc.  
+data types, conditionals (`if/else`), loops, functions, data structures, error handling, file I/O, etc.  
 The syntax changes, but the **principles remain the same**.  
 
-⚡ Since technology evolves quickly and frameworks can become obsolete, my focus in this AI-driven world is:  
+Since technology evolves quickly and frameworks can become obsolete, my focus in this AI-driven world is:  
 - Learning **frameworks** to build faster.  
 - Understanding **how things work under the hood** (systems, infra, compilers, protocols).  
 - Knowing **what is required to make things work**, not memorizing every detail of a language.
