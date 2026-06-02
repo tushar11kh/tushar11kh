@@ -26,13 +26,7 @@
 ### Blockchain (Rust / Solana)  
 - [**Streaming Payroll Smart Contract**](https://github.com/tushar11kh/streaming_payroll_solana)  
    *Rust Solana program enabling continuous payroll streaming.*
-
-### Nodejs 
-- [**perplexiity_chatgpt_clone_backend**](https://github.com/tushar11kh/perplexiity_chatgpt_clone_backend)  
-   *Perplexity AI API backend for my flutter application.*
-
-- [**paper_trading_stock_app**](https://github.com/tushar11kh/paper_trading_stock_app)  
-   *Mock app for trading.* 
+  
 ---
 
 ## Tech Stack  
