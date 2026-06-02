@@ -23,35 +23,6 @@
 
 ## Featured Projects  
 
-### Flutter 
-
-- [**chatgpt_clone_flutter**](https://github.com/tushar11kh/chatgpt_clone_flutter)  
-   *Clone of ChatGPT UI + Perplexity AI.*
-
-- [**Flutter dApp for Streaming Payroll**](https://github.com/tushar11kh/streaming_payroll_solana_flutter)  
-   *Mobile frontend to interact with Solana payroll program.*  
-
-- [**roastume_to_flutter**](https://github.com/tushar11kh/roastume_to_flutter)  
-   *Clone of roastume.fun to mobile app.*
-  
-- [**Feature_medical_app**](https://github.com/tushar11kh/feature_medical_app?tab=readme-ov-file)  
-   *Feature for a client to implemented in flutter web.*
-
-- [**brush-Game**](https://github.com/tushar11kh/brush-Game)  
-   *coloring app for kids under 3.*
-
-- [**immodrops_grocery**](https://github.com/tushar11kh/immodrops_grocery)  
-   *e-commerce app project.* 
-  
-
-
-### DevOps / Cloud  
-- [**Automated Deployment Pipeline**](https://github.com/tushar11kh/cli_redis_nginx)  
-   *Dockerized Redis + NGINX, CI/CD with GitHub Actions, deployed on AWS EC2.*  
-
-- [**Dockerized a rust Smart Contract with solana-test-validator**](https://github.com/tushar11kh/streaming_payroll_solana)  
-   *Dockerized with Solana test validator with multi-stage build making image size from 8.9 GB to 277 mb.*
-
 ### Blockchain (Rust / Solana)  
 - [**Streaming Payroll Smart Contract**](https://github.com/tushar11kh/streaming_payroll_solana)  
    *Rust Solana program enabling continuous payroll streaming.*
