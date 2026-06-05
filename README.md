@@ -1,3 +1,5 @@
+# 👋 Hi, I'm Tushar  
+
 - Exploring Blockchain (Solana) with Rust programs.  
 - Open to **remote roles** and **freelance opportunities** in:  
    - Solana Smart Contracts & dApp Development  
