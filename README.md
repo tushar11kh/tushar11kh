@@ -1,11 +1,5 @@
-# 👋 Hi, I'm Tushar  
-
-- First stepped into the application world through **Flutter**.
-- DevOps & Cloud enthusiast | Building CI/CD pipelines, containerized apps, and scalable infrastructure.  
 - Exploring Blockchain (Solana) with Rust programs.  
 - Open to **remote roles** and **freelance opportunities** in:  
-   - DevOps & Cloud Engineering  
-   - Flutter Mobile Development  
    - Solana Smart Contracts & dApp Development  
 
 ---
